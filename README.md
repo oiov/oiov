@@ -10,29 +10,7 @@
 - 💁 欢迎加入 [**web前端养老院**](#-reach-me) 摸鱼
 - ✨ “你做出一样很酷的东西出来，想给他起什么名都可以”
 
-## 🔥 My Tooooys
 
-<!--<a href="https://github.com/yesmore/inke"><img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/></a>
- -->
- 
-<ul>
-    <li>🎉 <a href='https://iconce.com'>ICONCE</a> - 在线SVG图标生成器</li>
-    <li>🎉 <a href='https://inke.app'>Inke</a> - AI编辑器/笔记本 附<a href='https://img.inke.app'>免费图床</a></li>
-    <li>🎉 <a href='https://vmail.dev'>Vmail</a> - 临时邮箱服务</li>
-    <li>🤡 <a href='https://gcloudlab.github.io/nav'>AIer</a> - ChatGPT镜像</li>
-    <li>🎯 <a href='https://gcloud-silk.vercel.app/'>𝐆𝐂𝐥𝐨𝐮𝐝云盘</a> - 数据存储中心 </li>
-    <li>🛠️ <a href='https://github.com/yesmore/U-To-B'>U-To-B</a> - 用一行脚本搬运Youtube视频到B站 </li>
-    <li>🚀 <a href='https://github.com/yesmore/gh-buibuibui-tg'>𝐆𝐢𝐭𝐡𝐮𝐛 𝐭𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦</a> - 消息推送 </li>
-    <li>✨ <a href='https://github.com/yesmore/gg-bot'>唧唧𝐛𝐨𝐭</a> - tg机器人 </li>
-    <li>🎨 <a href='https://github.com/yesmore/cv-mkr'>𝐂𝐕 𝐌𝐊𝐫</a> - 简历生成器 </li>
-</ul>
-
-## 🤖 Reach me
-
-<a href='https://twitter.com/yesmoree'><img src='https://img.shields.io/twitter/follow/yesmoree' /></a>
-<a href='https://dev.yesmore.cc'><img src='https://img.shields.io/badge/-https://dev.yesmore.cc-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://dev.yesmore.cc'/></a>
-<a href='https://space.bilibili.com/299717355'><img src='https://img.shields.io/badge/dynamic/json?style=flat-square&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=%20fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D299717355'/></a>
-<br>
 
 <!--
 <img width='50%' alt='gzh' src="https://img.aoau.top/other/myzr.png" />

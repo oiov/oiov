@@ -16,7 +16,6 @@
 <img width='50%' alt='gzh' src="https://img.aoau.top/other/myzr.png" />
  -->
  
-> 美国免备案vps，2核2G 配置仅需20.98$≈145RMB/年，支持支付宝付款，💁[点击优惠链接直达](https://my.racknerd.com/aff.php?aff=10906&pid=681)
 
 <!--
 <img  width='50%' src="https://github.com/yesmore/yesmore/assets/89140804/3de0baff-86c8-43d1-8d67-5c05966b7dfe"/>

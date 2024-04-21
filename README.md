@@ -10,7 +10,9 @@
 - 💁 欢迎加入web养老院 982545311 摸鱼
 - ✨ “你做出一样很酷的东西出来，想给他起什么名都可以”
 
-[站点状态](https://status.vmail.dev)
+[✅ 查看站点状态](https://status.vmail.dev)
+
+> 原账号 `github.com/yesmore` 被封
 
 <!--
 <img width='50%' alt='gzh' src="https://img.aoau.top/other/myzr.png" />

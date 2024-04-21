@@ -11,7 +11,7 @@ Hi, here
 
 [✅ 查看维护站点状态](https://status.vmail.dev)
 
-> 原账号 `github.com/yesmore` 被封
+> 原账号 `github.com/yesmore` (已被封)
 
 <!--
 <img width='50%' alt='gzh' src="https://img.aoau.top/other/myzr.png" />

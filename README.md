@@ -5,13 +5,13 @@ Hi, here
 
 <!-- <img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yesmore&show_icons=true&theme=react" /> -->
 
-- 👴 我叫 𝐉𝐮𝐢ç𝐞，<a href='https://dev.yesmore.cc'>这里</a> 是我的博客
-- 🚀 爱好<a href='https://500px.com.cn/community/user-details/816c1507a4879ad3a9ab28b2cdf655701'>摄影</a> | 倒装句患者 | 反射弧略长</li> 
+- 👴 我叫 Yeeeeesmore，<a href='https://dev.yesmore.cc'>这里</a> 是我的博客
+- 🚀 爱好摄影 | 倒装句患者 | 反射弧略长</li> 
 - ✨ “你做出一样很酷的东西出来，想给他起什么名都可以”
 
 [✅ 查看维护站点状态](https://status.vmail.dev)
 
-> 原账号 `github.com/yesmore` (已被封)
+> 原账号 `github.com/yesmore`
 
 <!--
 <img width='50%' alt='gzh' src="https://img.aoau.top/other/myzr.png" />

@@ -5,7 +5,7 @@ Hi, here
 
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oiov&show_icons=true&theme=react" /> 
 
-- 👴 这里是 oiov，<a href='https://blog.oiov.dev'>这是</a>我的博客
+- 👴 这里是 [oiov](https://blog.oiov.dev)，一只前端开花者
 - 🚀 爱好摄影 | 倒装句患者 | 反射弧略长</li> 
 - ✨ “你做出一样很酷的东西出来，想给他起什么名都可以”
 

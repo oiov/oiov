@@ -3,15 +3,26 @@ Hi, here
   <img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesmore%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%230AFFAB&title=visitor&edge_flat=true" /> 	
 </h1>
 
-<!-- <img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yesmore&show_icons=true&theme=react" /> -->
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oiov&show_icons=true&theme=react" /> 
 
 - 👴 这里是 oiov，<a href='https://blog.oiov.dev'>这是</a>我的博客
 - 🚀 爱好摄影 | 倒装句患者 | 反射弧略长</li> 
 - ✨ “你做出一样很酷的东西出来，想给他起什么名都可以”
 
+## My Toooys
+
+- [Inke](https://inke.app) - 开源在线 AI 笔记应用
+- [Iconce](https://iconce.com) - 开源SVG 图标生成器
+- [Vmail](https://vmail.dev) - 开源临时邮箱
+- [wr.do](https://wr.do) - 开源短链生成器
+- [云盘](https://pan.oiov.dev) - AList云盘
+- [Sorapi](https://wr.do/ai) - AI 聊天网站
+
+
 [✅ 查看维护站点状态](https://status.wr.do)
 
-> 原账号 [`github.com/yesmore`](https://web.archive.org/web/20240324114952/https://github.com/yesmore) 
+<!--
+原账号 [`github.com/yesmore`](https://web.archive.org/web/20240324114952/https://github.com/yesmore) 
 
 <!--
 <img width='50%' alt='gzh' src="https://img.aoau.top/other/myzr.png" />

@@ -16,6 +16,7 @@ Hi, here
 - [wr.do](https://wr.do) - 开源短链生成器
 - [云盘](https://pan.oiov.dev) - AList云盘
 - [Sorapi](https://wr.do/ai) - AI 聊天网站
+- [Remover](https://wr.do/rmbg) - 图片背景去除工具
 
 
 [✅ 查看维护站点状态](https://status.wr.do)

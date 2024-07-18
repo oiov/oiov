@@ -18,7 +18,7 @@ Hi, here
 - [云盘](https://pan.oiov.dev) - 个人云盘
 - [Sorapi](https://wr.do/ai) - AI 聊天网站
 - [Remover](https://wr.do/rmbg) - 图片背景去除工具
-- [Solomon](https://solomon.oiov.dev) - 后台管理系统
+- [Solomon](https://wr.do/solo) - 后台管理系统
 
 
 [✅ 查看维护站点状态](https://status.wr.do)

@@ -16,12 +16,9 @@ Hi, here
 - [Vmail](https://vmail.dev) - 开源临时邮箱
 - [wr.do](https://wr.do) - 开源免费三级域名解析平台
 - [云盘](https://pan.oiov.dev) - 个人云盘
-- [Sorapi](https://wr.do/ai) - AI 聊天网站
-- [Remover](https://wr.do/rmbg) - 图片背景去除工具
-- [Solomon](https://wr.do/solo) - 后台管理系统
-
-
-[✅ 查看维护站点状态](https://status.wr.do)
+- [Sorapi](https://wr.do/s/ai) - AI 聊天网站
+- [Remover](https://wr.do/s/rmbg) - 图片背景去除工具
+- [Solomon](https://wr.do/s/solo) - 后台管理系统
 
 <!--
 原账号 [`github.com/yesmore`](https://web.archive.org/web/20240324114952/https://github.com/yesmore) 

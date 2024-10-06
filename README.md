@@ -7,7 +7,7 @@ Hi, here
 
 - 👴 这里是 [oiov](https://www.oiov.dev)，一只前端开花者
 - 🚀 爱好摄影 | 倒装句患者 | 反射弧略长
-- 👉 如果你不知道在哪找到好玩的项目，来逛逛我的 [stars](https://github.com/oiov?tab=stars) 或 [repositories](https://github.com/oiov?tab=repositories)
+- 👉 欢迎加入我的产品发布频道 [Oiov's Creative Hub](https://discord.gg/YttFbFeq4J)
 
 ## My Toooys
 

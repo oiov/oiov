@@ -1,9 +1,3 @@
-```JSON
-编程非吾路，打灰路稍宽。
-我已离开编程这行近半年，转职建筑行业。
-目前在某建筑工程项目就职，编程将永远是我的爱好。
-```
-
 <h1>
 Hi, here
   <img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesmore%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%230AFFAB&title=visitor&edge_flat=true" /> 	

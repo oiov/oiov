@@ -11,10 +11,10 @@ Hi, here
 
 ## My Toooys
 
-- [Inke](https://inke.app) - 开源在线 AI 笔记应用
+- [wr.do](https://wr.do) - 多功能域名管理平台（三级域名分发、短链接生成、截图API）
+- [Inke](https://inke.wr.do) - 开源在线 AI 笔记应用
 - [Iconce](https://iconce.com) - 开源 SVG 图标生成器
 - [Vmail](https://vmail.dev) - 开源临时邮箱
-- [wr.do](https://wr.do) - 开源免费三级域名解析平台
 - [云盘](https://pan.oiov.dev) - 个人云盘
 - [Sorapi](https://wr.do/s/ai) - AI 聊天网站
 - [Remover](https://wr.do/s/rmbg) - 图片背景去除工具

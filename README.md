@@ -18,7 +18,6 @@ Hi, here
 - [云盘](https://pan.oiov.dev) - 个人云盘
 - [Sorapi](https://wr.do/s/ai) - AI 聊天网站
 - [Remover](https://wr.do/s/rmbg) - 图片背景去除工具
-- [Solomon](https://wr.do/s/solo) - 后台管理系统
 
 [![](https://iconce.com/api/v1?type=text&w=460&h=35&value=🥰你做出一个很酷的东西出来，想给他起什么名都可以---iconce.com&animate=true&fillType=Linear&primaryColor=%23FC466B&secondaryColor=%233F5EFB&angle=45&radialGlare=false&radius=8&strokeSize=0&strokeColor=%23FFFFFF&strokeOpacity=100&color=%23FFFFFF&size=15&family=cursive)](https://iconce.com)
 

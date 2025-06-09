@@ -5,13 +5,13 @@ Hi, here
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oiov&show_icons=true&theme=react" /> 
 
 - 👴 这里是 [oiov](https://www.oiov.dev)，一只前端开花者
-- 🚀 爱好摄影 | 倒装句患者 | 反射弧略长
+- 🚀 爱好[摄影](https://gallery.oiov.dev/) | 倒装句患者 | 反射弧略长
 - 👉 欢迎加入我的产品发布频道 [Oiov's Creative Hub](https://discord.gg/YttFbFeq4J)
 
 ## My Toooys
 
+- [wr.do](https://wr.do) - 一站式域名管理平台（子域名管理、短链接生成、无限邮箱生成）
 - [18.wr.do](https://18.wr.do) - 情侣升温小技巧🥰
-- [wr.do](https://wr.do) - 多功能域名管理平台（三级域名分发、短链接生成、截图API）
 - [OiChat](https://wr.do/s/ai) - AI 聊天网站
 - [Iconce](https://iconce.com) - 开源 SVG 图标生成器
 - [Vmail](https://vmail.dev) - 开源临时邮箱

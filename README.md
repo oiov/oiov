@@ -2,7 +2,7 @@
 Hi, here
 </h1>
 
-<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oiov&show_icons=true&theme=react" /> 
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=oiov&show_icons=true&theme=transparent" /> 
 
 - 👴 这里是 [oiov](https://www.oiov.dev)，一只前端开花者
 - 🚀 爱好[摄影](https://gallery.oiov.dev/) | 倒装句患者 | 反射弧略长

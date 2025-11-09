@@ -4,19 +4,23 @@ Hi, here
 
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=oiov&show_icons=true&theme=transparent" /> 
 
-- 👴 这里是 [oiov](https://www.oiov.dev)，一只前端开花者
+- 👴 这里是 [oiov](https://www.oiov.dev)，一只前端开花者 
 - 🚀 爱好[摄影](https://gallery.oiov.dev/) | 倒装句患者 | 反射弧略长
 - 👉 欢迎加入我的产品发布频道 [Oiov's Creative Hub](https://discord.gg/YttFbFeq4J)
 
 ## My Toooys
 
+- [oiov.dev](https://www.oiov.dev) - 我的博客 <a href="https://frogdr.com/oiov.dev?utm_source=oiov.dev" target="_blank"><img src="https://frogdr.com/oiov.dev/badge-white-tiny.svg" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="224" height="20"></a>
 - [wr.do](https://wr.do) - 一站式域名管理平台（子域名管理、短链接生成、无限邮箱生成）
+<a href="https://frogdr.com/wr.do?utm_source=wr.do" target="_blank"><img src="https://frogdr.com/wr.do/badge-white-tiny.svg" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="224" height="20"></a>
 - [18.wr.do](https://18.wr.do) - 情侣升温小技巧🥰
 - [OiChat](https://wr.do/s/ai) - AI 聊天网站
 - [Iconce](https://iconce.com) - 开源 SVG 图标生成器
+ <a href="https://frogdr.com/iconce.com?utm_source=iconce.com" target="_blank"><img src="https://frogdr.com/iconce.com/badge-white-tiny.svg" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="224" height="20"></a>
 - [Vmail](https://vmail.dev) - 开源临时邮箱
+ <a href="https://frogdr.com/vmail.dev?utm_source=vmail.dev" target="_blank"><img src="https://frogdr.com/vmail.dev/badge-white-tiny.svg" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="224" height="20"></a>
 - [Remover](https://wr.do/s/rmbg) - 图片背景去除工具
-- [Inke](https://inke.oiov.dev) - 开源在线 AI 笔记应用
+- [Inke](https://github.com/oiov/inke) - 开源在线 AI 笔记应用
 
 [![](https://iconce.com/api/v1?type=text&w=460&h=35&value=🥰你做出一个很酷的东西出来，想给他起什么名都可以---iconce.com&animate=true&fillType=Linear&primaryColor=%23FC466B&secondaryColor=%233F5EFB&angle=45&radialGlare=false&radius=8&strokeSize=0&strokeColor=%23FFFFFF&strokeOpacity=100&color=%23FFFFFF&size=15&family=cursive)](https://iconce.com)
 

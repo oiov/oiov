@@ -10,15 +10,12 @@ Hi, here
 
 ## My Toooys
 
-- [oiov.dev](https://www.oiov.dev) - 我的博客 <img src="https://frogdr.com/oiov.dev/badge-white-tiny.svg?text=LATEST" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="224" height="20">
-- [wr.do](https://wr.do) - 一站式域名管理平台（子域名管理、短链接生成、无限邮箱生成）
-  <img src="https://frogdr.com/wr.do/badge-white-tiny.svg?text=LATEST" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="224" height="20">
+- [oiov.dev](https://www.oiov.dev) - 我的博客 <img src="https://frogdr.com/oiov.dev/badge-white-tiny.svg?text=Latest" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="109" height="20">
+- [wr.do](https://wr.do) - 一站式域名管理平台（子域名管理、短链接生成、无限邮箱生成) <img src="https://frogdr.com/wr.do/badge-white-tiny.svg?text=LATEST" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="109" height="20">
 - [18.wr.do](https://18.wr.do) - 情侣升温小技巧🥰
 - [OiChat](https://wr.do/s/ai) - AI 聊天网站
-- [Iconce](https://iconce.com) - 开源 SVG 图标生成器
-  <img src="https://frogdr.com/iconce.com/badge-white-tiny.svg?text=LATEST" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="224" height="20">
-- [Vmail](https://vmail.dev) - 开源临时邮箱
-  <img src="https://frogdr.com/vmail.dev/badge-white-tiny.svg?text=LATEST" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="224" height="20">
+- [Iconce](https://iconce.com) - 开源 SVG 图标生成器 <img src="https://frogdr.com/iconce.com/badge-white-tiny.svg?text=LATEST" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="109" height="20">
+- [Vmail](https://vmail.dev) - 开源临时邮箱 <img src="https://frogdr.com/vmail.dev/badge-white-tiny.svg?text=LATEST" alt="Monitor&#0032;your&#0032;Domain&#0032;Rating&#0032;with&#0032;FrogDR" width="109" height="20">
 - [Remover](https://wr.do/s/rmbg) - 图片背景去除工具
 - [Inke](https://github.com/oiov/inke) - 开源在线 AI 笔记应用
 
